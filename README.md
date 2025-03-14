@@ -137,7 +137,7 @@ https://www.heap.io/topics/what-is-a-tech-stack
 
 https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/
 
-https://id.wikipedia.org/wiki/Java*
+https://id.wikipedia.org/wiki/Java
 
 https://diengcyber.com/pengertian-fungsi-serta-komponen-dari-java/?srsltid=AfmBOoqH83frdVV5S-f2jsemQZCqPllCmgY4w2j8e9j1m0m7Svt_zAJV
 
