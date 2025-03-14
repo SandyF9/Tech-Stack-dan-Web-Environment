@@ -1,4 +1,4 @@
-u# Tech-Stack-dan-Web-Environment
+# Tech-Stack-dan-Web-Environment
 
 ## Pengertian Tech Stack
 Tech Stack adalah seraingkaian teknologi yang di gunakan untuk mengembangkan aplikasi, termasuk bahasa pemograman, kerangka kerja, basiss data, alat Front-end dan Back-End, serta API.
