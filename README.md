@@ -1,4 +1,4 @@
-# Tech-Stack-dan-Web-Environment
+u# Tech-Stack-dan-Web-Environment
 
 ## Pengertian Tech Stack
 Tech Stack adalah seraingkaian teknologi yang di gunakan untuk mengembangkan aplikasi, termasuk bahasa pemograman, kerangka kerja, basiss data, alat Front-end dan Back-End, serta API.
@@ -26,31 +26,16 @@ Berikut ini kelebihan menggunakan bahasa pemrograman Java yang bisa Anda pelajar
 
 #### 1. Membuat Aplikasi yang Fleksibel
 Kelebihan utama dari Java yaitu mampu dijalankan di berbagai platform atau sistem operasi. Hal ini selaras dengan slogan mereka, yaitu “Write Once, Run Anywhere”. Artinya, cukup dengan sekali pembuatan file Java, program pun dapat dijalankan di beberapa platform tanpa perlu perubahan. 
-
-Contohnya jika Anda membangun aplikasi Java dengan menggunakan sistem operasi Linux. Program juga bisa dijalankan di sistem operasi lain, seperti Mac dan Windows.
-
-Java mempunyai compiler atau semacam virtual machine yang mampu menerjemahkan syntax Java ke bytecodes masing-masing platform. Itulah sebabnya Java dapat dijalankan di berbagai platform.  
+Contohnya jika Anda membangun aplikasi Java dengan menggunakan sistem operasi Linux. Program juga bisa dijalankan di sistem operasi lain, seperti Mac dan Windows. Java mempunyai compiler atau semacam virtual machine yang mampu menerjemahkan syntax Java ke bytecodes masing-masing platform. Itulah sebabnya Java dapat dijalankan di berbagai platform.  
 
 #### 2. Memiliki Library yang Lengkap
-Java dikenal mempunyai library yang lengkap. Library dalam bahasa pemrograman adalah sekumpulan fungsi dan program yang dapat digunakan secara langsung untuk untuk pembuatan aplikasi. 
-
-Selain itu, library ini juga masih didukung dengan keberadaan komunitas Java yang besar. Sehingga banyak menciptakan library baru yang dapat digunakan dalam melengkapi kebutuhan para developer Java. Dengan library ini,  Anda menjadi dapat membuat aplikasi berbasis Java lebih mudah.
+Java dikenal mempunyai library yang lengkap. Library dalam bahasa pemrograman adalah sekumpulan fungsi dan program yang dapat digunakan secara langsung untuk untuk pembuatan aplikasi. Selain itu, library ini juga masih didukung dengan keberadaan komunitas Java yang besar. Sehingga banyak menciptakan library baru yang dapat digunakan dalam melengkapi kebutuhan para developer Java. Dengan library ini,  Anda menjadi dapat membuat aplikasi berbasis Java lebih mudah.
 
 #### 3. Berorientas pada Objek
-Pemrograman berorientasi pada objek yaitu sebuah pemrograman yang mengatur desain aplikasi berdasarkan pada objek. Objek di sini didefinisikan sebagai bidang data yang mempunyai atribut dan perilaku. 
-
-Sebagai contoh dalam kehidupan nyata, objek berupa sepeda mempunyai atribut (ban, pedal, stang) dan perilaku (melaju, mengerem). 
-
-Nah, di Java, semua data atau fungsi dideskripsikan ke dalam beberapa kelas yang dapat saling berhubungan. Fungsi tersebut menjadikannya mampu dalam hal menerima pesan, memproses data, hingga mengirim pesan ke objek lainnya. 
-
-Kode pemrograman dengan menggunakan metode ini dapat membantu dalam membangun struktur program menjadi lebih ringkas.
-
-Selain itu juga dapat digunakan kembali yang lebih mudah dalam hal pembuatan aplikasi yang saling berkaitan atau kompleks dan aktif diperbarui. Jadi, proses development bisa menjadi lebih cepat dan dikembangkan lebih baik lagi.  
+Pemrograman berorientasi pada objek yaitu sebuah pemrograman yang mengatur desain aplikasi berdasarkan pada objek. Objek di sini didefinisikan sebagai bidang data yang mempunyai atribut dan perilaku. Sebagai contoh dalam kehidupan nyata, objek berupa sepeda mempunyai atribut (ban, pedal, stang) dan perilaku (melaju, mengerem). Nah, di Java, semua data atau fungsi dideskripsikan ke dalam beberapa kelas yang dapat saling berhubungan. Fungsi tersebut menjadikannya mampu dalam hal menerima pesan, memproses data, hingga mengirim pesan ke objek lainnya. Kode pemrograman dengan menggunakan metode ini dapat membantu dalam membangun struktur program menjadi lebih ringkas. Selain itu juga dapat digunakan kembali yang lebih mudah dalam hal pembuatan aplikasi yang saling berkaitan atau kompleks dan aktif diperbarui. Jadi, proses development bisa menjadi lebih cepat dan dikembangkan lebih baik lagi.  
 
 #### 4. Mirip dengan Bahasa C++
-Java merupakan pengembangan dari bahasa pemrograman C dan C++. Bahasa pemrograman C++ memang termasuk bahasa pemrograman yang cukup bagus, akan tetapi minusnya belum sefleksibel Java. Hal ini berbanding dengan Java dapat dibangun dengan lebih sederhana serta juga lebih fleksibel. 
-
-Nah, kalau Anda sudah mempelajari atau familiar dengan bahasa pemrograman C++, tentunya hal ini tidak akan begitu kesulitan dalam mempelajari bahasa pemrograman Java.  
+Java merupakan pengembangan dari bahasa pemrograman C dan C++. Bahasa pemrograman C++ memang termasuk bahasa pemrograman yang cukup bagus, akan tetapi minusnya belum sefleksibel Java. Hal ini berbanding dengan Java dapat dibangun dengan lebih sederhana serta juga lebih fleksibel. Nah, kalau Anda sudah mempelajari atau familiar dengan bahasa pemrograman C++, tentunya hal ini tidak akan begitu kesulitan dalam mempelajari bahasa pemrograman Java.  
 
 #### 5. Menulis Coding Lebih Sederhana
 Dibanding bahasa pemrograman lainnya, Java mempunyai struktur coding yang lebih ringkas dan sederhana.
@@ -144,3 +129,16 @@ Airbnb dengan cepat menjadi persewaan liburan paling populer di dunia. Perusahaa
 
 ### 11. Zillow
 Zillow, platform real estate yang tidak cukup dikenal karena menciptakan model estimasi sendiri (Zestimate), adalah salah satu pasar real estate dan persewaan yang paling banyak dikunjungi di dunia. Platform ini didedikasikan untuk membantu pemilik rumah, penyewa, pembeli, dan penjual untuk beriklan dan terhubung. Java mengelola backend merek dan telah membantu perusahaan berkembang dan meningkat selama bertahun-tahun.
+
+# Sumber Data
+https://www.adobe.com/uk/acrobat/resources/document-files/text-files/md.html
+https://www.heap.io/topics/what-is-a-tech-stack
+https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/ *
+https://id.wikipedia.org/wiki/Java*
+https://diengcyber.com/pengertian-fungsi-serta-komponen-dari-java/?srsltid=AfmBOoqH83frdVV5S-f2jsemQZCqPllCmgY4w2j8e9j1m0m7Svt_zAJV
+https://www.simplilearn.com/tutorials/java-tutorial/jdk-in-java
+https://diengcyber.com/pengertian-fungsi-serta-komponen-dari-java/?srsltid=AfmBOoqDzqEakihhtWgGU5NR5MSOjZ-bgbfcMBHom6m66wa1fPkyAJxl
+https://idwebhost.com/blog/apa-itu-java/
+https://www.scalosoft.com/blog/java-trends-for-2025/
+https://refactory.id/blogs/post/2022-11-28-perusahaan-yang-masih-menggunakan-java
+https://terenbro.com/blog/11-large-companies-that-use-java
