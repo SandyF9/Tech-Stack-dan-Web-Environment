@@ -132,8 +132,10 @@ Zillow, platform real estate yang tidak cukup dikenal karena menciptakan model e
 
 # Sumber Data
 https://www.adobe.com/uk/acrobat/resources/document-files/text-files/md.html
+
 https://www.heap.io/topics/what-is-a-tech-stack
-https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/ *
+
+https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/
 https://id.wikipedia.org/wiki/Java*
 https://diengcyber.com/pengertian-fungsi-serta-komponen-dari-java/?srsltid=AfmBOoqH83frdVV5S-f2jsemQZCqPllCmgY4w2j8e9j1m0m7Svt_zAJV
 https://www.simplilearn.com/tutorials/java-tutorial/jdk-in-java
