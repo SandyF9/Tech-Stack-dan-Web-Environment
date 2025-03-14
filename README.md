@@ -121,7 +121,7 @@ Netflix adalah platform konten global tempat pengguna dapat menonton film, acara
 ### 8. Instagram
 Platform META yang besar ini berpikir panjang dan keras tentang pilihan bahasa pemrograman untuk mengimplementasikan ide-idenya. Instagram menggunakan Python jika memungkinkan dan Java jika diperlukan. Ini memperkuat apa yang sudah diketahui semua pengembang — Tidak ada bisnis perusahaan yang dapat sepenuhnya membuang Java ke tempat sampah.
 
-### 9. situs eBay
+### 9. Situs eBay
 eBay, bisnis eCommerce yang populer, sebagian besar dijalankan dengan teknologi berbasis Java. Bahkan, seluruh alur kerja perusahaan berpusat di sekitar Java dan mesin virtual Java. Mereka yakin bahasa pemrograman Java ideal untuk pengembangan backend mereka karena serbaguna, dapat diskalakan, dan stabil.
 
 ### 10. Aplikasi Airbnb
@@ -136,11 +136,19 @@ https://www.adobe.com/uk/acrobat/resources/document-files/text-files/md.html
 https://www.heap.io/topics/what-is-a-tech-stack
 
 https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/
+
 https://id.wikipedia.org/wiki/Java*
+
 https://diengcyber.com/pengertian-fungsi-serta-komponen-dari-java/?srsltid=AfmBOoqH83frdVV5S-f2jsemQZCqPllCmgY4w2j8e9j1m0m7Svt_zAJV
+
 https://www.simplilearn.com/tutorials/java-tutorial/jdk-in-java
+
 https://diengcyber.com/pengertian-fungsi-serta-komponen-dari-java/?srsltid=AfmBOoqDzqEakihhtWgGU5NR5MSOjZ-bgbfcMBHom6m66wa1fPkyAJxl
+
 https://idwebhost.com/blog/apa-itu-java/
+
 https://www.scalosoft.com/blog/java-trends-for-2025/
+
 https://refactory.id/blogs/post/2022-11-28-perusahaan-yang-masih-menggunakan-java
+
 https://terenbro.com/blog/11-large-companies-that-use-java
