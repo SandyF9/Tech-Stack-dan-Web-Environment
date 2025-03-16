@@ -41,26 +41,16 @@ Java merupakan pengembangan dari bahasa pemrograman C dan C++. Bahasa pemrograma
 Dibanding bahasa pemrograman lainnya, Java mempunyai struktur coding yang lebih ringkas dan sederhana.
 
 #### 6. Mendukung Native Method
-Manfaat Java yang lain dan bisa Anda rasakan dalam pengembangan aplikasi yaitu mendukungnya native method. Hal ini berarti, salah satu fungsi program Java Anda dapat ditulis dengan menggunakan bahasa pemrograman selain Java, misalnya C atau C++. 
-
-Dengan adanya dukungan pada native method ini, Anda pun menjadi lebih mudah dalam menjangkau perangkat keras atau server (sumber daya) yang hanya dapat diakses dengan bahasa pemrograman lain. Sehingga Anda menjadi dapat membuat aplikasi yang lebih kaya fitur. 
+Manfaat Java yang lain dan bisa Anda rasakan dalam pengembangan aplikasi yaitu mendukungnya native method. Hal ini berarti, salah satu fungsi program Java Anda dapat ditulis dengan menggunakan bahasa pemrograman selain Java, misalnya C atau C++. Dengan adanya dukungan pada native method ini, Anda pun menjadi lebih mudah dalam menjangkau perangkat keras atau server (sumber daya) yang hanya dapat diakses dengan bahasa pemrograman lain. Sehingga Anda menjadi dapat membuat aplikasi yang lebih kaya fitur. 
 
 ## Kekurangan Menggunakan Java :
 berikut beberapa kekurangan Java:
 
 #### 1. Membutuhkan Memori yang Banyak
-Java memang mempunyai banyak module dan fitur yang memudahkan developer dalam mengembangkan aplikasi. Sayangnya, program berbasis Java ini membutuhkan banyak memori. 
-
-Hal itu karena Java Virtual Machine membutuhkan data dalam pengumpulan sampah memori, kompiler, pembuatan kelas, dan lainnya.
-
-Keseluruhan proses tersebut memang mampu untuk membuat aplikasi Java yang aman dan bekerja secara lancar. Namun efek minus ke perangkat yang menjalankan aplikasi Java ini menjadi cenderung akan dapat memakan RAM yang cukup banyak. 
+Java memang mempunyai banyak module dan fitur yang memudahkan developer dalam mengembangkan aplikasi. Sayangnya, program berbasis Java ini membutuhkan banyak memori. Hal itu karena Java Virtual Machine membutuhkan data dalam pengumpulan sampah memori, kompiler, pembuatan kelas, dan lainnya. Keseluruhan proses tersebut memang mampu untuk membuat aplikasi Java yang aman dan bekerja secara lancar. Namun efek minus ke perangkat yang menjalankan aplikasi Java ini menjadi cenderung akan dapat memakan RAM yang cukup banyak. 
 
 #### 2. Mudah Didekompilasi
-Kelemahan Java yang kedua adalah mudah didekompilasi. Dekompilasi merupakan proses dalam membalikkan kode menjadi kode sumber. 
-
-Perlu diketahui, bahwa saat program dijalankan, file Java akan dikompilasi menjadi bytecodes platform. Namun, setelah dikompilasi, algoritma dasar pada program Java akan mudah untuk  dilihat. Jadi, masih ada potensi aplikasi untuk dibajak.
-
-Untuk mengantisipasinya, Anda membutuhkan upaya dalam meningkatkan keamanan program secara ekstra. Misalnya, dengan menambahkan lisensi terenkripsi. 
+Kelemahan Java yang kedua adalah mudah didekompilasi. Dekompilasi merupakan proses dalam membalikkan kode menjadi kode sumber. Perlu diketahui, bahwa saat program dijalankan, file Java akan dikompilasi menjadi bytecodes platform. Namun, setelah dikompilasi, algoritma dasar pada program Java akan mudah untuk  dilihat. Jadi, masih ada potensi aplikasi untuk dibajak. Untuk mengantisipasinya, Anda membutuhkan upaya dalam meningkatkan keamanan program secara ekstra. Misalnya, dengan menambahkan lisensi terenkripsi. 
 
 #### 3. Graphical User Interface (GUI) dengan tampilan Kurang Menarik
 GUI atau Graphical User Interface merupakan tampilan dari aplikasi atau website yang berfungsi untuk interaksi dengan pengguna. Beberapa komponen GUI ini contohnya meliputi ikon, menu, tombol, dan lainnya. 
